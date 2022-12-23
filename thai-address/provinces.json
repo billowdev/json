@@ -4,540 +4,540 @@
 		{
 			"id": 1,
 			"code": "10",
-			"name_th": "กรุงเทพมหานคร",
-			"name_en": "Bangkok",
+			"nameTH": "กรุงเทพมหานคร",
+			"nameEN": "Bangkok",
 			"GeographyId": 2
 		},
 		{
 			"id": 2,
 			"code": "11",
-			"name_th": "สมุทรปราการ",
-			"name_en": "Samut Prakan",
+			"nameTH": "สมุทรปราการ",
+			"nameEN": "Samut Prakan",
 			"GeographyId": 2
 		},
 		{
 			"id": 3,
 			"code": "12",
-			"name_th": "นนทบุรี",
-			"name_en": "Nonthaburi",
+			"nameTH": "นนทบุรี",
+			"nameEN": "Nonthaburi",
 			"GeographyId": 2
 		},
 		{
 			"id": 4,
 			"code": "13",
-			"name_th": "ปทุมธานี",
-			"name_en": "Pathum Thani",
+			"nameTH": "ปทุมธานี",
+			"nameEN": "Pathum Thani",
 			"GeographyId": 2
 		},
 		{
 			"id": 5,
 			"code": "14",
-			"name_th": "พระนครศรีอยุธยา",
-			"name_en": "Phra Nakhon Si Ayutthaya",
+			"nameTH": "พระนครศรีอยุธยา",
+			"nameEN": "Phra Nakhon Si Ayutthaya",
 			"GeographyId": 2
 		},
 		{
 			"id": 6,
 			"code": "15",
-			"name_th": "อ่างทอง",
-			"name_en": "Ang Thong",
+			"nameTH": "อ่างทอง",
+			"nameEN": "Ang Thong",
 			"GeographyId": 2
 		},
 		{
 			"id": 7,
 			"code": "16",
-			"name_th": "ลพบุรี",
-			"name_en": "Loburi",
+			"nameTH": "ลพบุรี",
+			"nameEN": "Loburi",
 			"GeographyId": 2
 		},
 		{
 			"id": 8,
 			"code": "17",
-			"name_th": "สิงห์บุรี",
-			"name_en": "Sing Buri",
+			"nameTH": "สิงห์บุรี",
+			"nameEN": "Sing Buri",
 			"GeographyId": 2
 		},
 		{
 			"id": 9,
 			"code": "18",
-			"name_th": "ชัยนาท",
-			"name_en": "Chai Nat",
+			"nameTH": "ชัยนาท",
+			"nameEN": "Chai Nat",
 			"GeographyId": 2
 		},
 		{
 			"id": 10,
 			"code": "19",
-			"name_th": "สระบุรี",
-			"name_en": "Saraburi",
+			"nameTH": "สระบุรี",
+			"nameEN": "Saraburi",
 			"GeographyId": 2
 		},
 		{
 			"id": 11,
 			"code": "20",
-			"name_th": "ชลบุรี",
-			"name_en": "Chon Buri",
+			"nameTH": "ชลบุรี",
+			"nameEN": "Chon Buri",
 			"GeographyId": 5
 		},
 		{
 			"id": 12,
 			"code": "21",
-			"name_th": "ระยอง",
-			"name_en": "Rayong",
+			"nameTH": "ระยอง",
+			"nameEN": "Rayong",
 			"GeographyId": 5
 		},
 		{
 			"id": 13,
 			"code": "22",
-			"name_th": "จันทบุรี",
-			"name_en": "Chanthaburi",
+			"nameTH": "จันทบุรี",
+			"nameEN": "Chanthaburi",
 			"GeographyId": 5
 		},
 		{
 			"id": 14,
 			"code": "23",
-			"name_th": "ตราด",
-			"name_en": "Trat",
+			"nameTH": "ตราด",
+			"nameEN": "Trat",
 			"GeographyId": 5
 		},
 		{
 			"id": 15,
 			"code": "24",
-			"name_th": "ฉะเชิงเทรา",
-			"name_en": "Chachoengsao",
+			"nameTH": "ฉะเชิงเทรา",
+			"nameEN": "Chachoengsao",
 			"GeographyId": 5
 		},
 		{
 			"id": 16,
 			"code": "25",
-			"name_th": "ปราจีนบุรี",
-			"name_en": "Prachin Buri",
+			"nameTH": "ปราจีนบุรี",
+			"nameEN": "Prachin Buri",
 			"GeographyId": 5
 		},
 		{
 			"id": 17,
 			"code": "26",
-			"name_th": "นครนายก",
-			"name_en": "Nakhon Nayok",
+			"nameTH": "นครนายก",
+			"nameEN": "Nakhon Nayok",
 			"GeographyId": 2
 		},
 		{
 			"id": 18,
 			"code": "27",
-			"name_th": "สระแก้ว",
-			"name_en": "Sa Kaeo",
+			"nameTH": "สระแก้ว",
+			"nameEN": "Sa Kaeo",
 			"GeographyId": 5
 		},
 		{
 			"id": 19,
 			"code": "30",
-			"name_th": "นครราชสีมา",
-			"name_en": "Nakhon Ratchasima",
+			"nameTH": "นครราชสีมา",
+			"nameEN": "Nakhon Ratchasima",
 			"GeographyId": 3
 		},
 		{
 			"id": 20,
 			"code": "31",
-			"name_th": "บุรีรัมย์",
-			"name_en": "Buri Ram",
+			"nameTH": "บุรีรัมย์",
+			"nameEN": "Buri Ram",
 			"GeographyId": 3
 		},
 		{
 			"id": 21,
 			"code": "32",
-			"name_th": "สุรินทร์",
-			"name_en": "Surin",
+			"nameTH": "สุรินทร์",
+			"nameEN": "Surin",
 			"GeographyId": 3
 		},
 		{
 			"id": 22,
 			"code": "33",
-			"name_th": "ศรีสะเกษ",
-			"name_en": "Si Sa Ket",
+			"nameTH": "ศรีสะเกษ",
+			"nameEN": "Si Sa Ket",
 			"GeographyId": 3
 		},
 		{
 			"id": 23,
 			"code": "34",
-			"name_th": "อุบลราชธานี",
-			"name_en": "Ubon Ratchathani",
+			"nameTH": "อุบลราชธานี",
+			"nameEN": "Ubon Ratchathani",
 			"GeographyId": 3
 		},
 		{
 			"id": 24,
 			"code": "35",
-			"name_th": "ยโสธร",
-			"name_en": "Yasothon",
+			"nameTH": "ยโสธร",
+			"nameEN": "Yasothon",
 			"GeographyId": 3
 		},
 		{
 			"id": 25,
 			"code": "36",
-			"name_th": "ชัยภูมิ",
-			"name_en": "Chaiyaphum",
+			"nameTH": "ชัยภูมิ",
+			"nameEN": "Chaiyaphum",
 			"GeographyId": 3
 		},
 		{
 			"id": 26,
 			"code": "37",
-			"name_th": "อำนาจเจริญ",
-			"name_en": "Amnat Charoen",
+			"nameTH": "อำนาจเจริญ",
+			"nameEN": "Amnat Charoen",
 			"GeographyId": 3
 		},
 		{
 			"id": 27,
 			"code": "39",
-			"name_th": "หนองบัวลำภู",
-			"name_en": "Nong Bua Lam Phu",
+			"nameTH": "หนองบัวลำภู",
+			"nameEN": "Nong Bua Lam Phu",
 			"GeographyId": 3
 		},
 		{
 			"id": 28,
 			"code": "40",
-			"name_th": "ขอนแก่น",
-			"name_en": "Khon Kaen",
+			"nameTH": "ขอนแก่น",
+			"nameEN": "Khon Kaen",
 			"GeographyId": 3
 		},
 		{
 			"id": 29,
 			"code": "41",
-			"name_th": "อุดรธานี",
-			"name_en": "Udon Thani",
+			"nameTH": "อุดรธานี",
+			"nameEN": "Udon Thani",
 			"GeographyId": 3
 		},
 		{
 			"id": 30,
 			"code": "42",
-			"name_th": "เลย",
-			"name_en": "Loei",
+			"nameTH": "เลย",
+			"nameEN": "Loei",
 			"GeographyId": 3
 		},
 		{
 			"id": 31,
 			"code": "43",
-			"name_th": "หนองคาย",
-			"name_en": "Nong Khai",
+			"nameTH": "หนองคาย",
+			"nameEN": "Nong Khai",
 			"GeographyId": 3
 		},
 		{
 			"id": 32,
 			"code": "44",
-			"name_th": "มหาสารคาม",
-			"name_en": "Maha Sarakham",
+			"nameTH": "มหาสารคาม",
+			"nameEN": "Maha Sarakham",
 			"GeographyId": 3
 		},
 		{
 			"id": 33,
 			"code": "45",
-			"name_th": "ร้อยเอ็ด",
-			"name_en": "Roi Et",
+			"nameTH": "ร้อยเอ็ด",
+			"nameEN": "Roi Et",
 			"GeographyId": 3
 		},
 		{
 			"id": 34,
 			"code": "46",
-			"name_th": "กาฬสินธุ์",
-			"name_en": "Kalasin",
+			"nameTH": "กาฬสินธุ์",
+			"nameEN": "Kalasin",
 			"GeographyId": 3
 		},
 		{
 			"id": 35,
 			"code": "47",
-			"name_th": "สกลนคร",
-			"name_en": "Sakon Nakhon",
+			"nameTH": "สกลนคร",
+			"nameEN": "Sakon Nakhon",
 			"GeographyId": 3
 		},
 		{
 			"id": 36,
 			"code": "48",
-			"name_th": "นครพนม",
-			"name_en": "Nakhon Phanom",
+			"nameTH": "นครพนม",
+			"nameEN": "Nakhon Phanom",
 			"GeographyId": 3
 		},
 		{
 			"id": 37,
 			"code": "49",
-			"name_th": "มุกดาหาร",
-			"name_en": "Mukdahan",
+			"nameTH": "มุกดาหาร",
+			"nameEN": "Mukdahan",
 			"GeographyId": 3
 		},
 		{
 			"id": 38,
 			"code": "50",
-			"name_th": "เชียงใหม่",
-			"name_en": "Chiang Mai",
+			"nameTH": "เชียงใหม่",
+			"nameEN": "Chiang Mai",
 			"GeographyId": 1
 		},
 		{
 			"id": 39,
 			"code": "51",
-			"name_th": "ลำพูน",
-			"name_en": "Lamphun",
+			"nameTH": "ลำพูน",
+			"nameEN": "Lamphun",
 			"GeographyId": 1
 		},
 		{
 			"id": 40,
 			"code": "52",
-			"name_th": "ลำปาง",
-			"name_en": "Lampang",
+			"nameTH": "ลำปาง",
+			"nameEN": "Lampang",
 			"GeographyId": 1
 		},
 		{
 			"id": 41,
 			"code": "53",
-			"name_th": "อุตรดิตถ์",
-			"name_en": "Uttaradit",
+			"nameTH": "อุตรดิตถ์",
+			"nameEN": "Uttaradit",
 			"GeographyId": 1
 		},
 		{
 			"id": 42,
 			"code": "54",
-			"name_th": "แพร่",
-			"name_en": "Phrae",
+			"nameTH": "แพร่",
+			"nameEN": "Phrae",
 			"GeographyId": 1
 		},
 		{
 			"id": 43,
 			"code": "55",
-			"name_th": "น่าน",
-			"name_en": "Nan",
+			"nameTH": "น่าน",
+			"nameEN": "Nan",
 			"GeographyId": 1
 		},
 		{
 			"id": 44,
 			"code": "56",
-			"name_th": "พะเยา",
-			"name_en": "Phayao",
+			"nameTH": "พะเยา",
+			"nameEN": "Phayao",
 			"GeographyId": 1
 		},
 		{
 			"id": 45,
 			"code": "57",
-			"name_th": "เชียงราย",
-			"name_en": "Chiang Rai",
+			"nameTH": "เชียงราย",
+			"nameEN": "Chiang Rai",
 			"GeographyId": 1
 		},
 		{
 			"id": 46,
 			"code": "58",
-			"name_th": "แม่ฮ่องสอน",
-			"name_en": "Mae Hong Son",
+			"nameTH": "แม่ฮ่องสอน",
+			"nameEN": "Mae Hong Son",
 			"GeographyId": 1
 		},
 		{
 			"id": 47,
 			"code": "60",
-			"name_th": "นครสวรรค์",
-			"name_en": "Nakhon Sawan",
+			"nameTH": "นครสวรรค์",
+			"nameEN": "Nakhon Sawan",
 			"GeographyId": 2
 		},
 		{
 			"id": 48,
 			"code": "61",
-			"name_th": "อุทัยธานี",
-			"name_en": "Uthai Thani",
+			"nameTH": "อุทัยธานี",
+			"nameEN": "Uthai Thani",
 			"GeographyId": 2
 		},
 		{
 			"id": 49,
 			"code": "62",
-			"name_th": "กำแพงเพชร",
-			"name_en": "Kamphaeng Phet",
+			"nameTH": "กำแพงเพชร",
+			"nameEN": "Kamphaeng Phet",
 			"GeographyId": 2
 		},
 		{
 			"id": 50,
 			"code": "63",
-			"name_th": "ตาก",
-			"name_en": "Tak",
+			"nameTH": "ตาก",
+			"nameEN": "Tak",
 			"GeographyId": 4
 		},
 		{
 			"id": 51,
 			"code": "64",
-			"name_th": "สุโขทัย",
-			"name_en": "Sukhothai",
+			"nameTH": "สุโขทัย",
+			"nameEN": "Sukhothai",
 			"GeographyId": 2
 		},
 		{
 			"id": 52,
 			"code": "65",
-			"name_th": "พิษณุโลก",
-			"name_en": "Phitsanulok",
+			"nameTH": "พิษณุโลก",
+			"nameEN": "Phitsanulok",
 			"GeographyId": 2
 		},
 		{
 			"id": 53,
 			"code": "66",
-			"name_th": "พิจิตร",
-			"name_en": "Phichit",
+			"nameTH": "พิจิตร",
+			"nameEN": "Phichit",
 			"GeographyId": 2
 		},
 		{
 			"id": 54,
 			"code": "67",
-			"name_th": "เพชรบูรณ์",
-			"name_en": "Phetchabun",
+			"nameTH": "เพชรบูรณ์",
+			"nameEN": "Phetchabun",
 			"GeographyId": 2
 		},
 		{
 			"id": 55,
 			"code": "70",
-			"name_th": "ราชบุรี",
-			"name_en": "Ratchaburi",
+			"nameTH": "ราชบุรี",
+			"nameEN": "Ratchaburi",
 			"GeographyId": 4
 		},
 		{
 			"id": 56,
 			"code": "71",
-			"name_th": "กาญจนบุรี",
-			"name_en": "Kanchanaburi",
+			"nameTH": "กาญจนบุรี",
+			"nameEN": "Kanchanaburi",
 			"GeographyId": 4
 		},
 		{
 			"id": 57,
 			"code": "72",
-			"name_th": "สุพรรณบุรี",
-			"name_en": "Suphan Buri",
+			"nameTH": "สุพรรณบุรี",
+			"nameEN": "Suphan Buri",
 			"GeographyId": 2
 		},
 		{
 			"id": 58,
 			"code": "73",
-			"name_th": "นครปฐม",
-			"name_en": "Nakhon Pathom",
+			"nameTH": "นครปฐม",
+			"nameEN": "Nakhon Pathom",
 			"GeographyId": 2
 		},
 		{
 			"id": 59,
 			"code": "74",
-			"name_th": "สมุทรสาคร",
-			"name_en": "Samut Sakhon",
+			"nameTH": "สมุทรสาคร",
+			"nameEN": "Samut Sakhon",
 			"GeographyId": 2
 		},
 		{
 			"id": 60,
 			"code": "75",
-			"name_th": "สมุทรสงคราม",
-			"name_en": "Samut Songkhram",
+			"nameTH": "สมุทรสงคราม",
+			"nameEN": "Samut Songkhram",
 			"GeographyId": 2
 		},
 		{
 			"id": 61,
 			"code": "76",
-			"name_th": "เพชรบุรี",
-			"name_en": "Phetchaburi",
+			"nameTH": "เพชรบุรี",
+			"nameEN": "Phetchaburi",
 			"GeographyId": 4
 		},
 		{
 			"id": 62,
 			"code": "77",
-			"name_th": "ประจวบคีรีขันธ์",
-			"name_en": "Prachuap Khiri Khan",
+			"nameTH": "ประจวบคีรีขันธ์",
+			"nameEN": "Prachuap Khiri Khan",
 			"GeographyId": 4
 		},
 		{
 			"id": 63,
 			"code": "80",
-			"name_th": "นครศรีธรรมราช",
-			"name_en": "Nakhon Si Thammarat",
+			"nameTH": "นครศรีธรรมราช",
+			"nameEN": "Nakhon Si Thammarat",
 			"GeographyId": 6
 		},
 		{
 			"id": 64,
 			"code": "81",
-			"name_th": "กระบี่",
-			"name_en": "Krabi",
+			"nameTH": "กระบี่",
+			"nameEN": "Krabi",
 			"GeographyId": 6
 		},
 		{
 			"id": 65,
 			"code": "82",
-			"name_th": "พังงา",
-			"name_en": "Phangnga",
+			"nameTH": "พังงา",
+			"nameEN": "Phangnga",
 			"GeographyId": 6
 		},
 		{
 			"id": 66,
 			"code": "83",
-			"name_th": "ภูเก็ต",
-			"name_en": "Phuket",
+			"nameTH": "ภูเก็ต",
+			"nameEN": "Phuket",
 			"GeographyId": 6
 		},
 		{
 			"id": 67,
 			"code": "84",
-			"name_th": "สุราษฎร์ธานี",
-			"name_en": "Surat Thani",
+			"nameTH": "สุราษฎร์ธานี",
+			"nameEN": "Surat Thani",
 			"GeographyId": 6
 		},
 		{
 			"id": 68,
 			"code": "85",
-			"name_th": "ระนอง",
-			"name_en": "Ranong",
+			"nameTH": "ระนอง",
+			"nameEN": "Ranong",
 			"GeographyId": 6
 		},
 		{
 			"id": 69,
 			"code": "86",
-			"name_th": "ชุมพร",
-			"name_en": "Chumphon",
+			"nameTH": "ชุมพร",
+			"nameEN": "Chumphon",
 			"GeographyId": 6
 		},
 		{
 			"id": 70,
 			"code": "90",
-			"name_th": "สงขลา",
-			"name_en": "Songkhla",
+			"nameTH": "สงขลา",
+			"nameEN": "Songkhla",
 			"GeographyId": 6
 		},
 		{
 			"id": 71,
 			"code": "91",
-			"name_th": "สตูล",
-			"name_en": "Satun",
+			"nameTH": "สตูล",
+			"nameEN": "Satun",
 			"GeographyId": 6
 		},
 		{
 			"id": 72,
 			"code": "92",
-			"name_th": "ตรัง",
-			"name_en": "Trang",
+			"nameTH": "ตรัง",
+			"nameEN": "Trang",
 			"GeographyId": 6
 		},
 		{
 			"id": 73,
 			"code": "93",
-			"name_th": "พัทลุง",
-			"name_en": "Phatthalung",
+			"nameTH": "พัทลุง",
+			"nameEN": "Phatthalung",
 			"GeographyId": 6
 		},
 		{
 			"id": 74,
 			"code": "94",
-			"name_th": "ปัตตานี",
-			"name_en": "Pattani",
+			"nameTH": "ปัตตานี",
+			"nameEN": "Pattani",
 			"GeographyId": 6
 		},
 		{
 			"id": 75,
 			"code": "95",
-			"name_th": "ยะลา",
-			"name_en": "Yala",
+			"nameTH": "ยะลา",
+			"nameEN": "Yala",
 			"GeographyId": 6
 		},
 		{
 			"id": 76,
 			"code": "96",
-			"name_th": "นราธิวาส",
-			"name_en": "Narathiwat",
+			"nameTH": "นราธิวาส",
+			"nameEN": "Narathiwat",
 			"GeographyId": 6
 		},
 		{
 			"id": 77,
 			"code": "97",
-			"name_th": "บึงกาฬ",
-			"name_en": "buogkan",
+			"nameTH": "บึงกาฬ",
+			"nameEN": "buogkan",
 			"GeographyId": 3
 		}
 	],
